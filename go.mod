@@ -20,12 +20,20 @@ require (
 	github.com/ipfs/go-log/v2 v2.1.3
 	github.com/ipfs/go-merkledag v0.3.2
 	github.com/ipfs/go-unixfs v0.2.4
-	github.com/libp2p/go-libp2p v0.13.0
+	github.com/libp2p/go-libp2p v6.0.23+incompatible
 	github.com/libp2p/go-libp2p-connmgr v0.2.4
 	github.com/libp2p/go-libp2p-core v0.8.5
 	github.com/libp2p/go-libp2p-kad-dht v0.11.1
+	github.com/libp2p/go-libp2p-mplex v0.4.1 // indirect
 	github.com/libp2p/go-libp2p-record v0.1.3
+	github.com/libp2p/go-libp2p-swarm v0.4.0 // indirect
 	github.com/libp2p/go-libp2p-tls v0.1.3
+	github.com/libp2p/go-libp2p-yamux v0.5.1 // indirect
+	github.com/libp2p/go-ws-transport v0.4.0 // indirect
 	github.com/multiformats/go-multiaddr v0.3.1
 	github.com/multiformats/go-multihash v0.0.15
+	github.com/whyrusleeping/go-smux-multiplex v3.0.16+incompatible // indirect
+	github.com/whyrusleeping/go-smux-multistream v2.0.2+incompatible // indirect
+	github.com/whyrusleeping/go-smux-yamux v2.0.9+incompatible // indirect
+	github.com/whyrusleeping/yamux v1.2.0 // indirect
 )
