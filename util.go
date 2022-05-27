@@ -18,8 +18,8 @@ import (
 	dht "github.com/libp2p/go-libp2p-kad-dht"
 	dualdht "github.com/libp2p/go-libp2p-kad-dht/dual"
 	record "github.com/libp2p/go-libp2p-record"
-	tcp "github.com/libp2p/go-tcp-transport"
-	websocket "github.com/libp2p/go-ws-transport"
+	"github.com/libp2p/go-libp2p/p2p/transport/tcp"
+	"github.com/libp2p/go-libp2p/p2p/transport/websocket"
 	multiaddr "github.com/multiformats/go-multiaddr"
 )
 
