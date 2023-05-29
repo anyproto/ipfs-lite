@@ -7,15 +7,15 @@ require (
 	github.com/ipfs/go-bitswap v0.3.3
 	github.com/ipfs/go-blockservice v0.1.4
 	github.com/ipfs/go-cid v0.0.7
-	github.com/ipfs/go-datastore v0.4.5
+	github.com/ipfs/go-datastore v0.5.0
 	github.com/ipfs/go-ds-badger v0.2.6
-	github.com/ipfs/go-ipfs-blockstore v1.0.3
+	github.com/ipfs/go-ipfs-blockstore v1.3.1
 	github.com/ipfs/go-ipfs-chunker v0.0.5
 	github.com/ipfs/go-ipfs-config v0.12.0
 	github.com/ipfs/go-ipfs-exchange-offline v0.0.1
 	github.com/ipfs/go-ipfs-provider v0.4.3
 	github.com/ipfs/go-ipld-cbor v0.0.5
-	github.com/ipfs/go-ipld-format v0.2.0
+	github.com/ipfs/go-ipld-format v0.3.0
 	github.com/ipfs/go-ipns v0.0.2
 	github.com/ipfs/go-log/v2 v2.1.3
 	github.com/ipfs/go-merkledag v0.3.2
